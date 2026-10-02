@@ -1,0 +1,18 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.dev
+*.layout
+*.depend
+
+# IDE folders
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+
+# Output / temp
+*.log
+*.tmp
